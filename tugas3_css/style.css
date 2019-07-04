@@ -1,0 +1,23 @@
+p.monospace{
+  font-family: monospace;
+  font-size: 20px
+}
+
+p.bold{
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #948f8b;
+}
+
+p{
+  border: solid 1px  ;
+}
+
+p.p_satu{
+  background-color: #f59542;
+}
+
+p.p_dua{
+  color: white;
+  background-color: blue;
+}
