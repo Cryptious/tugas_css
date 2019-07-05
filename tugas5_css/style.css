@@ -1,0 +1,20 @@
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+div.div_menu,a.menu{
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+div.div_menu{
+  margin-bottom: 1%;
+}
+
+div.slider-div{
+  text-align: center;
+}

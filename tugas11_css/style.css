@@ -1,0 +1,29 @@
+body{
+  background-color: #fffbf7;
+}
+
+p{
+  column-count: 4;
+  column-fill: balance;
+  column-rule: 3px solid;
+  height: 200px;
+}
+
+ul{
+    list-style: none;
+}
+
+ul, li{
+  display: inline;
+  padding: 10px;
+}
+
+a:link, a:visited{
+  color: #fff;
+  text-decoration:none;
+}
+
+header{
+    background-color: #30302f;
+    padding: 10px;
+}

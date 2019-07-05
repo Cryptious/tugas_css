@@ -1,0 +1,22 @@
+p{
+  background-color: aqua;
+  width: 20em;
+  height: 5em;
+}
+.satu{
+  overflow: auto;
+  border: 10px dotted red;
+  border-width: medium;
+}
+.dua{
+  overflow: auto;
+  border: 10px solid green;
+  border-width: thin;
+
+}
+.tiga{
+  overflow: auto;
+  border: 10px dashed blue;
+  border-width: thick;
+
+}
